@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yummymatui
+- 👋 Hi, I’m @maelyn
 - 👀 I’m interested in Web Design and Development. 
 - 🌱 I’m currently learning c++, c#, and java. 
 - 📫Contact me on Facebook "Maelyn Lura Obejero"
