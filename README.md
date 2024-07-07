@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Design and Development. 
 - 🌱 I’m currently learning c++, c#, python and java. 
 
-- 📫Contact me on Facebook "Maelyn Lura Obejero"
+- 📫Contact me on Facebook "Maelyn"
 
 
 <!---
